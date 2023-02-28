@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StlCpp",
+			"Path": "C:\\Users\\STL\\Documents\\Unreal Projects\\StlCpp\\Source\\StlCpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StlCppEditor",
+			"Path": "C:\\Users\\STL\\Documents\\Unreal Projects\\StlCpp\\Source\\StlCppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

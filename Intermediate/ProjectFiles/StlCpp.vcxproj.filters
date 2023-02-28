@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StlCpp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StlCpp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StlCppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\StlCpp">
+      <UniqueIdentifier>{56F7E20D-473A-3DC6-8C7D-C4E7033EDF35}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StlCpp\BaseWeapon.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\BaseWeapon.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\Bear.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\Bear.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\BearAIController.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\BearAIController.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\BearAnimInstance.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\BearAnimInstance.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\BTT_BearAttack.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\BTT_BearAttack.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\BTT_FindRandomLocation.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\BTT_FindRandomLocation.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\Door.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\Door.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\Fountain.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\Fountain.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\ItemBox.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\ItemBox.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\NotifyStateAttack.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\NotifyStateAttack.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\StlAnimInstance.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlAnimInstance.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\StlCharacterStatComponent.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlCharacterStatComponent.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StlCpp\StlCpp.Build.cs">
+      <Filter>Source\StlCpp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StlCpp\StlCpp.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlCpp.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\StlCppCharacter.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlCppCharacter.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\StlCppGameMode.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlCppGameMode.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\StlCppPlayerController.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlCppPlayerController.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\StlCppSpawn.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlCppSpawn.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\StlGameInstance.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\StlGameInstance.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\WB_BearHpBar.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\WB_BearHpBar.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StlCpp\WB_HealthBar.cpp">
+      <Filter>Source\StlCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StlCpp\WB_HealthBar.h">
+      <Filter>Source\StlCpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

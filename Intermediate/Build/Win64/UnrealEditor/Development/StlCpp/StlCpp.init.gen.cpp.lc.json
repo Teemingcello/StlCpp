@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\stlcpp\\stlcpp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\intermediate\\build\\win64\\stlcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\development\\stlcpp\\definitions.stlcpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

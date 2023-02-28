@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programing\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\stlcpp\\baseweapon.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programing\\stlcpp\\intermediate\\build\\win64\\stlcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programing\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\development\\stlcpp\\definitions.stlcpp.h",
+            "d:\\programing\\stlcpp\\source\\stlcpp\\baseweapon.h",
+            "d:\\programing\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\stlcpp\\baseweapon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

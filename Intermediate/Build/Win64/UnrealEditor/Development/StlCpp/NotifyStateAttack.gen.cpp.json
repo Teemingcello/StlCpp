@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programing\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\stlcpp\\notifystateattack.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programing\\stlcpp\\intermediate\\build\\win64\\stlcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programing\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\development\\stlcpp\\definitions.stlcpp.h",
+            "d:\\programing\\stlcpp\\source\\stlcpp\\notifystateattack.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotifystate.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\animnotifystate.generated.h",
+            "d:\\programing\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\stlcpp\\notifystateattack.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

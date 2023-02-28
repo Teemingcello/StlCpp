@@ -1,0 +1,16 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\GAMJA\AppData\Local\UnrealBuildTool\Log.txt
+  Building StlCppEditor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from StlCpp unity file: BaseWeapon.cpp, Bear.cpp, BearAIController.cpp, BearAnimInstance.cpp, BTT_BearAttack.cpp, BTT_FindRandomLocation.cpp, Door.cpp, Fountain.cpp, ItemBox.cpp, NotifyStateAttack.cpp, StlAnimInstance.cpp, StlCharacterStatComponent.cpp, StlCpp.cpp, StlCppCharacter.cpp, StlCppGameMode.cpp, StlCppPlayerController.cpp, StlCppSpawn.cpp, StlGameInstance.cpp, WB_BearHpBar.cpp, WB_HealthBar.cpp
+  Determining max actions to execute in parallel (16 physical cores, 32 logical cores)
+    Executing up to 16 processes, one per physical core
+  Building 4 actions with 4 processes...
+  [1/4] Compile StlAnimInstance.cpp
+  [2/4] Link UnrealEditor-StlCpp.lib
+     D:\Programing\StlCpp\Intermediate\Build\Win64\UnrealEditor\Development\StlCpp\UnrealEditor-StlCpp.lib 라이브러리 및 D:\Programing\StlCpp\Intermediate\Build\Win64\UnrealEditor\Development\StlCpp\UnrealEditor-StlCpp.exp 개체를 생성하고 있습니다.
+  [3/4] Link UnrealEditor-StlCpp.dll
+     D:\Programing\StlCpp\Intermediate\Build\Win64\UnrealEditor\Development\StlCpp\UnrealEditor-StlCpp.suppressed.lib 라이브러리 및 D:\Programing\StlCpp\Intermediate\Build\Win64\UnrealEditor\Development\StlCpp\UnrealEditor-StlCpp.suppressed.exp 개체를 생성하고 있습니다.
+  [4/4] WriteMetadata StlCppEditor.target
+  Total time in Parallel executor: 5.46 seconds
+  Total execution time: 6.03 seconds

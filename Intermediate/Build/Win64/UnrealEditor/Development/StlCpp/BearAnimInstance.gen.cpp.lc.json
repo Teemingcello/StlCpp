@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\stlcpp\\bearaniminstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\intermediate\\build\\win64\\stlcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\development\\stlcpp\\definitions.stlcpp.h",
+            "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\source\\stlcpp\\bearaniminstance.h",
+            "c:\\users\\stl\\documents\\unreal projects\\stlcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\stlcpp\\bearaniminstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
